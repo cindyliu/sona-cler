@@ -11,6 +11,8 @@
 |
 */
 
+die('hello');
+
 Route::get('/', function () {
     return view('index');
 });
