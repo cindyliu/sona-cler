@@ -39,7 +39,7 @@
 
 @section('content')
 	<p>
-		Welcome, User!
+		Welcome, CLER User!
 	</p>
 @stop
 
