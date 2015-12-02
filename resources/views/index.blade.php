@@ -27,6 +27,7 @@
 			<button type="button" class="btn btn-success">
 				Sign up
 			</button>
+			[this button doesn't do anything right now]
 		</p>
 	</span>
 @stop
